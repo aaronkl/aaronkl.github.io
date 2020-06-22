@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>F. Hutter | Aaron Klein</title>
+    <link>https://aaronkl.github.io/author/f.-hutter/</link>
+      <atom:link href="https://aaronkl.github.io/author/f.-hutter/index.xml" rel="self" type="application/rss+xml" />
+    <description>F. Hutter</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://aaronkl.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>F. Hutter</title>
+      <link>https://aaronkl.github.io/author/f.-hutter/</link>
+    </image>
+    
+    <item>
+      <title>Meta-Surrogate Benchmarking for Hyperparameter Optimization</title>
+      <link>https://aaronkl.github.io/publication/klein-nips-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://aaronkl.github.io/publication/klein-nips-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NAS-Bench-101: Towards Reproducible Neural Architecture Search</title>
+      <link>https://aaronkl.github.io/publication/ying-icml-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://aaronkl.github.io/publication/ying-icml-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tabular Benchmarks for Joint Architecture and Hyperparameter Optimization</title>
+      <link>https://aaronkl.github.io/publication/klein-arxiv-19-a/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://aaronkl.github.io/publication/klein-arxiv-19-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BOHB: Robust and Efficient Hyperparameter Optimization at Scale</title>
+      <link>https://aaronkl.github.io/publication/falkner-icml-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://aaronkl.github.io/publication/falkner-icml-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast Bayesian Optimization of Machine Learning Hyperparameters on Large Datasets</title>
+      <link>https://aaronkl.github.io/publication/klein-aistats-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://aaronkl.github.io/publication/klein-aistats-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Curve Prediction with Bayesian Neural Networks</title>
+      <link>https://aaronkl.github.io/publication/klein-iclr-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://aaronkl.github.io/publication/klein-iclr-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Optimization with Robust Bayesian Neural Networks</title>
+      <link>https://aaronkl.github.io/publication/springenberg-nips-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://aaronkl.github.io/publication/springenberg-nips-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient and Robust Automated Machine Learning</title>
+      <link>https://aaronkl.github.io/publication/feurer-nips-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://aaronkl.github.io/publication/feurer-nips-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
