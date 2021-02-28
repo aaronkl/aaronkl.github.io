@@ -59,6 +59,9 @@ Together with my collaborators from the University of Freiburg I won the ChaLear
 # News
 
 
+* **Februray 2021**: Two new papers are online [BORE](https://arxiv.org/abs/2102.09009) with [Louis Tiao](https://tiao.io/) et al.  and [ABRAC](https://arxiv.org/abs/2102.12810) with [Samuel Horvath](https://samuelhorvath.github.io/) et al.
+* **January 2021**: I will give an invited talk on March 1 at the minisymposium on [Hyperparameter Optimization in Machine Learning](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=70125) at the [SIAM Conference on Computational Science and Engineering](https://www.siam.org/conferences/cm/conference/cse21)
+* **January 2021**: We organize another [NAS workshop](https://sites.google.com/view/nas2021) at ICLR 2021.  
 * **June 2020**: Together with [Giovanni Zappella](https://giovannizappella.github.io/) and [Arber Zela](https://ml.informatik.uni-freiburg.de/people/zela/index.html), we organize a series of [virtual seminars on AutoML](https://automl-seminars.github.io/)
 * **June 2020**: We organized a [tutorial at CVPR](http://hangzhang.org/CVPR2020/) 2020 about HPO and NAS
 * **January 2020**:  I successfully defended my Phd thesis
