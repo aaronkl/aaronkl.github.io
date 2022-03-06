@@ -14,7 +14,7 @@ social: true  # includes social icons at the bottom of the page
 
 
 
-My goal is to build automated learning systems that are able to configure themselves with almost no  human intervention. More specifically, my research focus is on hyperparameter and architecture search of deep neural networks as well as more general AutoML.
+My goal is to build automated learning systems that are able to configure themselves without human intervention. More specifically, my research focus is on hyperparameter and architecture search of deep neural networks as well as more general AutoML.
 
 
 ### short bio
