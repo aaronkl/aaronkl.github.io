@@ -12,9 +12,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
+Machine learning is one of the most most disrupting technologies of our time. However, its success often relies on human expert intuition, for example, selecting and configuring the right learning algorithm. This makes machine learning only accessible to a limited group of experts. These manual steps usually depend on trial-and-error, which consumes a large amount of computational resources.
 
-
-My goal is to build automated learning systems that are able to configure themselves without any human intervention. More specifically, my research focus is on hyperparameter and architecture search of deep neural networks as well as more general AutoML.
+The goal of my research is to develop machine learning approaches that are able to configure themselves automatically by learning from past data. This enables even novice users to efficiently apply state-of-the-art machine learning algorithms. In the long term I hope that my work will contribute to fulfill the promise of artificial intelligence of complete end-to-end learning systems.
 
 
 ### short bio
@@ -22,6 +22,6 @@ My goal is to build automated learning systems that are able to configure themse
 I am an applied scientist in the long-term science team of AWS SageMaker, where I work on large-scale distributed hyperparameter and architecture search. Prior to that, I was a PhD student at the University of Freiburg under the supervision of [Frank Hutter](http://ml.informatik.uni-freiburg.de/~hutter/). In 2015, me and my collaborators from the University of Freiburg won the ChaLearn AutoML Challenge.
 I co-organized the workshop on neural architecture search at ICRL 2020 and ICLR 2021, respectively.
 Together with [Giovanni Zappella](https://giovannizappella.github.io/), [Arber Zela](https://ml.informatik.uni-freiburg.de/people/zela/index.html) and [Jovita Lukasik](https://www.uni-mannheim.de/dws/people/researchers/phd-students/jovita-lukasik/) I run the virtual [AutoML Seminar](https://automl-seminars.github.io/) as part of the ELLIS units Berlin and Freiburg. 
-I also regularly serve as reviewer for ICML, ICLR, NeurIPS and JMLR.
+I also regularly serve as reviewer for ICML, ICLR, NeurIPS, TMLR and JMLR.
 
 
