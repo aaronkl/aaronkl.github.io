@@ -12,7 +12,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Machine learning is one of the most most disrupting technologies of our time. However, its success often relies on human expert intuition, for example, selecting and configuring the right learning algorithm. This makes machine learning only accessible to a limited group of experts. These manual steps usually depend on trial-and-error, which consumes a large amount of computational resources.
+Machine learning is one of the most most disrupting technologies of our time. However, its success often relies on human expert intuition, for example, to select and configure the right learning algorithm. This makes machine learning only accessible to a limited group of experts, and, since these manual steps usually depend on trial-and-error,  consumes a large amount of computational resources.
 
 The goal of my research is to develop machine learning approaches that are able to configure themselves automatically by learning from past data. This enables even novice users to efficiently apply state-of-the-art machine learning algorithms. In the long term I hope that my work will contribute to fulfill the promise of artificial intelligence of complete end-to-end learning systems.
 
