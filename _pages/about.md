@@ -26,7 +26,7 @@ More specifically, my research interests include:
 
 ### short bio
 
-I am an applied scientist in the long-term science team at AWS SageMaker, where I work on large-scale distributed hyperparameter and architecture search.
+I am an applied scientist in the long-term science team at AWS SageMaker, where I work on topics related to automated machine learning.
 Alongside my collaborators, I lead the development of the open-source library [SyneTune](https://github.com/awslabs/syne-tune) for large-scale hyperparameter optimization and neural architecture search.
  
 Prior to that, I was a PhD student at the University of Freiburg under the supervision of [Frank Hutter](http://ml.informatik.uni-freiburg.de/~hutter/). In 2015, my collaborators from the University of Freiburg and I won the ChaLearn AutoML Challenge. I co-organized the workshop on neural architecture search at ICRL 2020 and ICLR 2021, respectively. I also regularly serve as a reviewer for ICML, ICLR, NeurIPS, TMLR, and JMLR.
