@@ -16,7 +16,6 @@ Machine learning is one of the most disruptive technologies of our time. However
 
 The goal of my research is to develop machine learning approaches that can configure themselves automatically by learning from past data. In the long term, I hope that my work will contribute to fulfilling the promise of artificial intelligence and lead to complete end-to-end learning systems.
 
-
 More specifically, my research interests include:
  - Automated machine learning
  - Neural architecture search
@@ -27,6 +26,16 @@ More specifically, my research interests include:
 
 ### short bio
 
-I am an applied scientist in the long-term science team at AWS SageMaker, where I work on large-scale distributed hyperparameter and architecture search. Prior to that, I was a PhD student at the University of Freiburg under the supervision of [Frank Hutter](http://ml.informatik.uni-freiburg.de/~hutter/). In 2015, my collaborators from the University of Freiburg and I won the ChaLearn AutoML Challenge. I co-organized the workshop on neural architecture search at ICRL 2020 and ICLR 2021, respectively. Together with [Giovanni Zappella](https://giovannizappella.github.io/), [Arber Zela](https://ml.informatik.uni-freiburg.de/people/zela/index.html), and [Jovita Lukasik](https://www.uni-mannheim.de/dws/people/researchers/phd-students/jovita-lukasik/), I run the virtual [AutoML Seminar](https://automl-seminars.github.io/) as part of the ELLIS units in Berlin and Freiburg. I also regularly serve as a reviewer for ICML, ICLR, NeurIPS, TMLR, and JMLR.
+I am an applied scientist in the long-term science team at AWS SageMaker, where I work on large-scale distributed hyperparameter and architecture search.
+Alongside my collaborators, I lead the development of the open-source library [SyneTune](https://github.com/awslabs/syne-tune) for large-scale hyperparameter optimization and neural architecture search.
+ 
+Prior to that, I was a PhD student at the University of Freiburg under the supervision of [Frank Hutter](http://ml.informatik.uni-freiburg.de/~hutter/). In 2015, my collaborators from the University of Freiburg and I won the ChaLearn AutoML Challenge. I co-organized the workshop on neural architecture search at ICRL 2020 and ICLR 2021, respectively. I also regularly serve as a reviewer for ICML, ICLR, NeurIPS, TMLR, and JMLR.
+
+
+Together with [Giovanni Zappella](https://giovannizappella.github.io/), [Arber Zela](https://ml.informatik.uni-freiburg.de/people/zela/index.html), and [Jovita Lukasik](https://www.uni-mannheim.de/dws/people/researchers/phd-students/jovita-lukasik/), I run the virtual [AutoML Seminar](https://automl-seminars.github.io/) as part of the ELLIS units in Berlin and Freiburg. 
+The AutoML seminar serves as a platform to discuss and inform about recent advancements in Automated Machine Learning, hosting regular (bi-weekly) online sessions with talks and discussions. A particular focus is to provide aspiring young researchers the opportunity to present their work to a larger audience, consisting of renowned experts in the field.
+
+
+I strongly believe in open-source for reproducible research. Throughout my career as a scientist, I have contributed to and maintained several open-source libraries such as [auto-sklearn](https://github.com/automl/auto-sklearn), [EmuKit](https://github.com/amzn/emukit), [RoBO](https://github.com/automl/RoBO) or [SyneTune](https://github.com/awslabs/syne-tune). Additionally, I authored a [chapter on hyperparameter optimization](https://d2l.ai/chapter_hyperparameter-optimization/) for the well-known open book "Dive into Deep Learning." 
 
 
