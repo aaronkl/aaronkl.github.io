@@ -7,8 +7,9 @@ profile:
   align: right
   image: profile.jpg
 
-news: true  # includes a list of news items
+news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
+image_circular: true # crops the image to make it circular
 social: true  # includes social icons at the bottom of the page
 ---
 
@@ -37,5 +38,3 @@ The AutoML seminar serves as a platform to discuss and inform about recent advan
 
 
 I strongly believe in open-source for reproducible research. Throughout my career as a scientist, I have contributed to and maintained several open-source libraries such as [auto-sklearn](https://github.com/automl/auto-sklearn), [EmuKit](https://github.com/amzn/emukit), [RoBO](https://github.com/automl/RoBO) or [SyneTune](https://github.com/awslabs/syne-tune). Additionally, I authored a [chapter on hyperparameter optimization](https://d2l.ai/chapter_hyperparameter-optimization/) for the well-known open book "Dive into Deep Learning." 
-
-
