@@ -7,7 +7,11 @@ nav: true
 ---
 
 
+## 2024
 
+- [upcoming] Keynote at the [AutoML Conference 2024](https://2024.automl.cc/) 
+
+- [upcoming] Tutorial at the [MESS 2024](https://www.ants-lab.it/mess2024/) summer school
 
 ## 2023
 
