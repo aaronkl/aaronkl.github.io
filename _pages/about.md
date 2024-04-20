@@ -7,8 +7,9 @@ profile:
   align: right
   image: profile.jpg
 
-news: true  # includes a list of news items
+news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
+image_circular: true # crops the image to make it circular
 social: true  # includes social icons at the bottom of the page
 ---
 
