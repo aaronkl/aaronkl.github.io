@@ -9,9 +9,9 @@ nav: true
 
 ## 2024
 
-- Keynote at the [AutoML Conference 2024](https://2024.automl.cc/) [(video)](https://youtu.be/yNw4Gcszkfw?si=O-KgA0yqs0rA9S39)
+- Keynote *'Compressing Large Language Models via Neural Architecture Search'* at the [AutoML Conference 2024](https://2024.automl.cc/) [(video)](https://youtu.be/yNw4Gcszkfw?si=O-KgA0yqs0rA9S39)
 
-- Tutorial at the [MESS 2024](https://www.ants-lab.it/mess2024/) summer school
+- Tutorial on *'Hyperparameter Optimization'* and *'Neural Architecture Search'* at the [MESS 2024](https://www.ants-lab.it/mess2024/) summer school
 
 ## 2023
 
