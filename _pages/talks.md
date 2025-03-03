@@ -6,6 +6,9 @@ description:
 nav: true
 ---
 
+## 2025
+
+- ScaDS.AI Living Lab Lecture *Compressing Large Language Models* [(video)](https://youtu.be/f0JizSFMGZY?si=B6AYHi5zrpc2jdS2)
 
 ## 2024
 
