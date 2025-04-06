@@ -8,6 +8,8 @@ nav: true
 
 ## 2025
 
+- [upcoming] Tutorial at the [AutoML Summer School 2025](https://www.automlschool.org/)
+
 - ScaDS.AI Living Lab Lecture *Compressing Large Language Models* [(video)](https://youtu.be/f0JizSFMGZY?si=B6AYHi5zrpc2jdS2)
 
 ## 2024
