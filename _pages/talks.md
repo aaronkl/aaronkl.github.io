@@ -8,7 +8,7 @@ nav: true
 
 ## 2025
 
-- Tutorial on *Neural Architecture Search* at the [AutoML Summer School 2025](https://www.automlschool.org/)[(video)](https://youtu.be/xPCCgc5nFy8?si=1DO91vkCF-UZFpxX)
+- Tutorial on *Neural Architecture Search* at the [AutoML Summer School 2025](https://www.automlschool.org/) [(video)](https://youtu.be/xPCCgc5nFy8?si=1DO91vkCF-UZFpxX)
 
 - ScaDS.AI Living Lab Lecture *Compressing Large Language Models* [(video)](https://youtu.be/f0JizSFMGZY?si=B6AYHi5zrpc2jdS2)
 
