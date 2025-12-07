@@ -8,7 +8,7 @@ nav: true
 
 ## 2025
 
-- Key Note on *Automating Neural Network Design: Neural Architecture Search for Small and Efficient Models* at the [SmaLLEXT Workshop at CIKM 2025](https://sites.google.com/view/smallext/home?authuser=0) (planned)
+- Key Note on *Automating Neural Network Design: Neural Architecture Search for Small and Efficient Models* at the [SmaLLEXT Workshop at CIKM 2025](https://sites.google.com/view/smallext/home?authuser=0)
 
 - Industry Talk on *Open Large Language Models for Europe* at the [AutoML Conference 2025](https://2025.automl.cc/)
 
