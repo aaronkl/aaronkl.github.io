@@ -8,7 +8,9 @@ nav: true
 
 ## 2025
 
-- Key Note on *Automating Neural Network Design: Neural Architecture Search for Small and Efficient Models* at the [SmaLLEXT Workshop at CIKM 2025](https://sites.google.com/view/smallext/home?authuser=0) [(video)](https://youtu.be/HT5CUBDCCDY?si=oEkHne8sQEYxyE3E)
+- Invited talk at the [Visual Intelligence Seminar series](https://www.visual-intelligence.no/events/seminars) on *Optimizing Deep Learning: Automated Methods for Efficient Training and Architecture Design* [(video)](https://youtu.be/HT5CUBDCCDY?si=oEkHne8sQEYxyE3E)
+
+- Key Note on *Automating Neural Network Design: Neural Architecture Search for Small and Efficient Models* at the [SmaLLEXT Workshop at CIKM 2025](https://sites.google.com/view/smallext/home?authuser=0) 
 
 - Industry Talk on *Open Large Language Models for Europe* at the [AutoML Conference 2025](https://2025.automl.cc/)
 
