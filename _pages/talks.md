@@ -6,6 +6,10 @@ description:
 nav: true
 ---
 
+## 2026
+
+- Invited talk at the Knowledge Exchange Workshops for Large Language Models of the German Aerospace Center
+
 ## 2025
 
 - Invited talk at the [Visual Intelligence Seminar series](https://www.visual-intelligence.no/events/seminars) on *Optimizing Deep Learning: Automated Methods for Efficient Training and Architecture Design* [(video)](https://youtu.be/HT5CUBDCCDY?si=oEkHne8sQEYxyE3E)
