@@ -8,6 +8,8 @@ nav: true
 
 ## 2026
 
+- Talk on OpenEuroLLM at the [Friday Talks @ Tübingen](https://fridaytalks.github.io/). 
+
 - Invited talk at the Knowledge Exchange Workshops for Large Language Models of the German Aerospace Center
 
 ## 2025
