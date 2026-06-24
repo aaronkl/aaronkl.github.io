@@ -34,6 +34,6 @@ Until 2024, I worked as an senior scientist at AWS, where I was part of the long
 I earned my PhD at the University of Freiburg in 2019 in the [machine learning lab](https://ml.informatik.uni-freiburg.de/) under the supervision of Frank Hutter.
 In 2022, my co-authors and I received the [Best Paper Award](https://2022.automl.cc/index.html%3Fp=603.html) at the AutoML Conference. Earlier, in 2015, my collaborators from the University of Freiburg and I won the ChaLearn AutoML Challenge.
 
-I have co-organized the Neural Architecture Search workshop at [ICRL 2020](https://sites.google.com/view/nas2020) and [ICLR 2021](https://sites.google.com/view/nas2021/), and served as the local chair for the [AutoML Conference 2023](https://2023.automl.cc/). I regularly serve as reviewer for top-tier venues (ICML, NeurIPS, ICLR) and as action editor for TMLR.
+I have co-organized the Neural Architecture Search workshop at [ICRL 2020](https://sites.google.com/view/nas2020) and [ICLR 2021](https://sites.google.com/view/nas2021/), and served as the local chair for the [AutoML Conference 2023](https://2023.automl.cc/). I regularly serve as reviewer and area chair for top-tier venues (ICML, NeurIPS, ICLR) and as action editor for TMLR.
 
 
