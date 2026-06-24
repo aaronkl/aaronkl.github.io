@@ -13,7 +13,7 @@ image_circular: true # crops the image to make it circular
 social: true  # includes social icons at the bottom of the page
 ---
 
-I lead the [pre-training team](https://institute-tue.ellis.eu/en/people/d8da6bf7-42e3-426a-bec1-868cbecc37eb) at the [ELLIS Institute Tübingen](https://institute-tue.ellis.eu/) as part of OpenEuroLLM [OpenEuroLLM](https://openeurollm.eu/), a European initiative developing a family of foundation models for European languages. Our team focuses on advancing automated methods for large-scale pre-training of large language models. I also serve as a scientific advisor to [distil labs](https://www.distillabs.ai/), a startup developing customized small language models.
+I lead the [pre-training team](https://institute-tue.ellis.eu/en/people/d8da6bf7-42e3-426a-bec1-868cbecc37eb) at the [ELLIS Institute Tübingen](https://institute-tue.ellis.eu/) as part of [OpenEuroLLM](https://openeurollm.eu/), a European initiative developing a family of foundation models for European languages. Our team focuses on advancing automated methods for large-scale pre-training of large language models. I also serve as a scientific advisor to [distil labs](https://www.distillabs.ai/), a startup developing customized small language models.
 
 I am a Member of the [ELLIS Network](https://ellis.eu/members/members-list) and co-host of the virtual [AutoML Seminar](https://automl-seminars.github.io/). 
 
