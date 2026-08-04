@@ -8,6 +8,8 @@ nav: true
 
 ## 2026
 
+- Invited talk at the [ELLIS Summer School on AutoML](https://www.automlschool.org/) on *"Neural Scaling Laws for Pretraining Large Language Models"* 
+
 - Talk on OpenEuroLLM at the [Friday Talks @ Tübingen](https://fridaytalks.github.io/) [(video)](https://youtu.be/E9J36-T637U?si=eQ6LxuAfcW_oIIYk)
 
 - Invited talk at the Knowledge Exchange Workshops for Large Language Models of the German Aerospace Center
