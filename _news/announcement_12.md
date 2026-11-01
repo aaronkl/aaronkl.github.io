@@ -5,4 +5,4 @@ inline: true
 ---
 
 
-The first version of our [HPO Chapter](https://d2l.ai/chapter_hyperparameter-optimization/) for the D2L Book ist out!
+The first version of our [HPO Chapter](https://d2l.ai/chapter_hyperparameter-optimization/) for the D2L Book is out!

@@ -17,11 +17,11 @@ I lead the [pre-training team](https://institute-tue.ellis.eu/en/people/d8da6bf7
 I am a Member of the [ELLIS Network](https://ellis.eu/members/members-list) and co-host of the virtual [AutoML Seminar](https://automl-seminars.github.io/). 
 
 Previously, I headed the AutoML research group at [ScaDS.AI](https://scads.ai/) (Center for Scalable Data Analytics and Artificial Intelligence) in Leipzig.
-Until 2024, I worked as an senior scientist at AWS, where I was part of the long-term science team behind SageMaker, AWS’s machine learning cloud platform, as well as the science team for Amazon Q, AWS’s generative AI assistant.
+Until 2024, I worked as a senior scientist at AWS, where I was part of the long-term science team behind SageMaker, AWS’s machine learning cloud platform, as well as the science team for Amazon Q, AWS’s generative AI assistant.
 
 I earned my PhD at the University of Freiburg in 2019 in the [machine learning lab](https://ml.informatik.uni-freiburg.de/) under the supervision of Frank Hutter.
 In 2022, my co-authors and I received the [Best Paper Award](https://2022.automl.cc/index.html%3Fp=603.html) at the AutoML Conference. Earlier, in 2015, my collaborators from the University of Freiburg and I won the ChaLearn AutoML Challenge.
 
-I have co-organized the Neural Architecture Search workshop at [ICRL 2020](https://sites.google.com/view/nas2020) and [ICLR 2021](https://sites.google.com/view/nas2021/), and served as the local chair for the [AutoML Conference 2023](https://2023.automl.cc/). I regularly serve as reviewer and area chair for top-tier venues (ICML, NeurIPS, ICLR) and as action editor for TMLR.
+I have co-organized the Neural Architecture Search workshop at [ICLR 2020](https://sites.google.com/view/nas2020) and [ICLR 2021](https://sites.google.com/view/nas2021/), and served as the local chair for the [AutoML Conference 2023](https://2023.automl.cc/). I regularly serve as reviewer and area chair for top-tier venues (ICML, NeurIPS, ICLR) and as action editor for TMLR.
 
 
